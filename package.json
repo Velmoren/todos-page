@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Groundbender.github.io/todoTsx",
+  "homepage": "https://velmoren.github.io/todos-page",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
@@ -22,7 +22,7 @@
     "react-router-dom": "^6.11.2",
     "react-scripts": "5.0.1",
     "react-toastify": "^9.1.3",
-    "styled-components": "^6.0.0-rc.3",
+    "styled-components": "^5.0.0",
     "styled-normalize": "^8.0.7",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
